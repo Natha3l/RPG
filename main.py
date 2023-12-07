@@ -20,5 +20,6 @@ print(francois.weapon.dammage)
       
     bonjour
     kikou
+;,j
     
     
